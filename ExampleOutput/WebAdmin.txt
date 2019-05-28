@@ -1,0 +1,1149 @@
+[KF-Metro-Swamps.kfm KFMapSummary]
+MapName=KF-Metro-Swamps.kfm
+
+[KF-KF1-Arcade-Gas-Station.kfm KFMapSummary]
+MapName=KF-KF1-Arcade-Gas-Station.kfm
+
+[KF-737StrollOut.kfm KFMapSummary]
+MapName=KF-737StrollOut.kfm
+
+[KF-SlipgateComplex.kfm KFMapSummary]
+MapName=KF-SlipgateComplex.kfm
+
+[KF-Lila-Panic-V2.kfm KFMapSummary]
+MapName=KF-Lila-Panic-V2.kfm
+
+[KF-KF1-DefenceB2.kfm KFMapSummary]
+MapName=KF-KF1-DefenceB2.kfm
+
+[KF-City17.kfm KFMapSummary]
+MapName=KF-City17.kfm
+
+[Collision_KF1_Farm.kfm KFMapSummary]
+MapName=Collision_KF1_Farm.kfm
+
+[KF-ZedsDiner.kfm KFMapSummary]
+MapName=KF-ZedsDiner.kfm
+
+[KF-Metro-AFRV2.kfm KFMapSummary]
+MapName=KF-Metro-AFRV2.kfm
+
+[KF-Gothic.kfm KFMapSummary]
+MapName=KF-Gothic.kfm
+
+[KF-Ravenholm.kfm KFMapSummary]
+MapName=KF-Ravenholm.kfm
+
+[KF-CytologyLab.kfm KFMapSummary]
+MapName=KF-CytologyLab.kfm
+
+[KF-FirstWorldBankV2.kfm KFMapSummary]
+MapName=KF-FirstWorldBankV2.kfm
+
+[KF-Roof11-classic.kfm KFMapSummary]
+MapName=KF-Roof11-classic.kfm
+
+[KF-Drone.kfm KFMapSummary]
+MapName=KF-Drone.kfm
+
+[KF-Construct.kfm KFMapSummary]
+MapName=KF-Construct.kfm
+
+[KF-BlackMesa.kfm KFMapSummary]
+MapName=KF-BlackMesa.kfm
+
+[KF-DeepingWall.kfm KFMapSummary]
+MapName=KF-DeepingWall.kfm
+
+[KF-Jaywalkers_Tunnel.kfm KFMapSummary]
+MapName=KF-Jaywalkers_Tunnel.kfm
+
+[KF-CS_Italy.kfm KFMapSummary]
+MapName=KF-CS_Italy.kfm
+
+[KF-De_Dust.kfm KFMapSummary]
+MapName=KF-De_Dust.kfm
+
+[KF-CS_Compound.kfm KFMapSummary]
+MapName=KF-CS_Compound.kfm
+
+[KF-CS_Militia.kfm KFMapSummary]
+MapName=KF-CS_Militia.kfm
+
+[KF-De_Nuke.kfm KFMapSummary]
+MapName=KF-De_Nuke.kfm
+
+[KF-Vortal-Coil.kfm KFMapSummary]
+MapName=KF-Vortal-Coil.kfm
+
+[KF-SpacecaosNM.kfm KFMapSummary]
+MapName=KF-SpacecaosNM.kfm
+
+[KF-Edge_Of_Reality.kfm KFMapSummary]
+MapName=KF-Edge_Of_Reality.kfm
+
+[KF-Portal.kfm KFMapSummary]
+MapName=KF-Portal.kfm
+
+[KF-NachtDerUntoten.kfm KFMapSummary]
+MapName=KF-NachtDerUntoten.kfm
+
+[KF-DoshVault.kfm KFMapSummary]
+MapName=KF-DoshVault.kfm
+
+[KF-GetSchwifty.kfm KFMapSummary]
+MapName=KF-GetSchwifty.kfm
+
+[KF-Deadlock.kfm KFMapSummary]
+MapName=KF-Deadlock.kfm
+
+[KF-HospitalHorrorsRemake.kfm KFMapSummary]
+MapName=KF-HospitalHorrorsRemake.kfm
+
+[KF-DOJO.kfm KFMapSummary]
+MapName=KF-DOJO.kfm
+
+[KF-Zombie-Que.kfm KFMapSummary]
+MapName=KF-Zombie-Que.kfm
+
+[KF-BridgePoint.kfm KFMapSummary]
+MapName=KF-BridgePoint.kfm
+
+[KF-Corridor.kfm KFMapSummary]
+MapName=KF-Corridor.kfm
+
+[KF-KillingPool.kfm KFMapSummary]
+MapName=KF-KillingPool.kfm
+
+[KF-ClubConfession.kfm KFMapSummary]
+MapName=KF-ClubConfession.kfm
+
+[KF-Factory-Objective.kfm KFMapSummary]
+MapName=KF-Factory-Objective.kfm
+
+[KF-Colegio.kfm KFMapSummary]
+MapName=KF-Colegio.kfm
+
+[KF-NovaProspekt.kfm KFMapSummary]
+MapName=KF-NovaProspekt.kfm
+
+[KF-Wolf-3D.kfm KFMapSummary]
+MapName=KF-Wolf-3D.kfm
+
+[KF-TRON-VR.kfm KFMapSummary]
+MapName=KF-TRON-VR.kfm
+
+[KF-PacMan.kfm KFMapSummary]
+MapName=KF-PacMan.kfm
+
+[KF-Biolapse.kfm KFMapSummary]
+MapName=KF-Biolapse.kfm
+
+[KF-MayanArena.kfm KFMapSummary]
+MapName=KF-MayanArena.kfm
+
+[KF-Nuked-Beta.kfm KFMapSummary]
+MapName=KF-Nuked-Beta.kfm
+
+[KF-UT-FacingWorlds-Classic-2004.kfm KFMapSummary]
+MapName=KF-UT-FacingWorlds-Classic-2004.kfm
+
+[KF-Defence-M1.kfm KFMapSummary]
+MapName=KF-Defence-M1.kfm
+
+[KF-Arid_Zedlands.kfm KFMapSummary]
+MapName=KF-Arid_Zedlands.kfm
+
+[KF-Aim_Deagle.kfm KFMapSummary]
+MapName=KF-Aim_Deagle.kfm
+
+[KF-Fy-Iceworld.kfm KFMapSummary]
+MapName=KF-Fy-Iceworld.kfm
+
+[KF-HillSide-Enhanced.kfm KFMapSummary]
+MapName=KF-HillSide-Enhanced.kfm
+
+[KF-Beachn_v2.kfm KFMapSummary]
+MapName=KF-Beachn_v2.kfm
+
+[KF-TF2_Harvest.kfm KFMapSummary]
+MapName=KF-TF2_Harvest.kfm
+
+[KF-MiddleOfNowhere.kfm KFMapSummary]
+MapName=KF-MiddleOfNowhere.kfm
+
+[KF-TheGreatWall_Invernalia.kfm KFMapSummary]
+MapName=KF-TheGreatWall_Invernalia.kfm
+
+[KF-Assault.kfm KFMapSummary]
+MapName=KF-Assault.kfm
+
+[KF-Fy_Simpsons.kfm KFMapSummary]
+MapName=KF-Fy_Simpsons.kfm
+
+[KF-4Rooms.kfm KFMapSummary]
+MapName=KF-4Rooms.kfm
+
+[KF-ASHES.kfm KFMapSummary]
+MapName=KF-ASHES.kfm
+
+[KF-ElAnexo.kfm KFMapSummary]
+MapName=KF-ElAnexo.kfm
+
+[KF-Killhouse.kfm KFMapSummary]
+MapName=KF-Killhouse.kfm
+
+[KF-Voynich_ws2.kfm KFMapSummary]
+MapName=KF-Voynich_ws2.kfm
+
+[KF-BridgeHoldout.kfm KFMapSummary]
+MapName=KF-BridgeHoldout.kfm
+
+[KF-Miasma.kfm KFMapSummary]
+MapName=KF-Miasma.kfm
+
+[KF-Stalker-Garbage.kfm KFMapSummary]
+MapName=KF-Stalker-Garbage.kfm
+
+[KF-Aim_Deagle_Ultra.kfm KFMapSummary]
+MapName=KF-Aim_Deagle_Ultra.kfm
+
+[KF-Subduction.kfm KFMapSummary]
+MapName=KF-Subduction.kfm
+
+[KF-Ville_de_Doom.kfm KFMapSummary]
+MapName=KF-Ville_de_Doom.kfm
+
+[KF-Gluttony.kfm KFMapSummary]
+MapName=KF-Gluttony.kfm
+
+[KF-FreemanPontifex.kfm KFMapSummary]
+MapName=KF-FreemanPontifex.kfm
+
+[KF-NukeTown_Morning.kfm KFMapSummary]
+MapName=KF-NukeTown_Morning.kfm
+
+[KF-This_Vortal_Coil.kfm KFMapSummary]
+MapName=KF-This_Vortal_Coil.kfm
+
+[KF-TheSunkenCity.kfm KFMapSummary]
+MapName=KF-TheSunkenCity.kfm
+
+[KF-KameHouse.kfm KFMapSummary]
+MapName=KF-KameHouse.kfm
+
+[KF-MP2_ShootingGallery.kfm KFMapSummary]
+MapName=KF-MP2_ShootingGallery.kfm
+
+[KF-ThisIsBananas.kfm KFMapSummary]
+MapName=KF-ThisIsBananas.kfm
+
+[KF-Tunnel.kfm KFMapSummary]
+MapName=KF-Tunnel.kfm
+
+[KF-ReturnToPiety.kfm KFMapSummary]
+MapName=KF-ReturnToPiety.kfm
+
+[kf-badlands-tf2.kfm KFMapSummary]
+MapName=kf-badlands-tf2.kfm
+
+[KF-HorzineForestV2.kfm KFMapSummary]
+MapName=KF-HorzineForestV2.kfm
+
+[KF-TheSunkenCity_Endless.kfm KFMapSummary]
+MapName=KF-TheSunkenCity_Endless.kfm
+
+[KF-AIM_AK_COLT.kfm KFMapSummary]
+MapName=KF-AIM_AK_COLT.kfm
+
+[KF-Fy_Pool_Day.kfm KFMapSummary]
+MapName=KF-Fy_Pool_Day.kfm
+
+[KF-Hospital.kfm KFMapSummary]
+MapName=KF-Hospital.kfm
+
+[KF-Oddworld.kfm KFMapSummary]
+MapName=KF-Oddworld.kfm
+
+[KF-Mansion.kfm KFMapSummary]
+MapName=KF-Mansion.kfm
+
+[KF-Alicia_Madness_Returns_Arena.kfm KFMapSummary]
+MapName=KF-Alicia_Madness_Returns_Arena.kfm
+
+[KF-TF2_Well_holdout.kfm KFMapSummary]
+MapName=KF-TF2_Well_holdout.kfm
+
+[KF-TF2_Well.kfm KFMapSummary]
+MapName=KF-TF2_Well.kfm
+
+[KF-LightCross.kfm KFMapSummary]
+MapName=KF-LightCross.kfm
+
+[KF-Octagon.kfm KFMapSummary]
+MapName=KF-Octagon.kfm
+
+[KF-All_Big.kfm KFMapSummary]
+MapName=KF-All_Big.kfm
+
+[KF-Door_Defense_2.kfm KFMapSummary]
+MapName=KF-Door_Defense_2.kfm
+
+[KF-Stalker-Darkscape.kfm KFMapSummary]
+MapName=KF-Stalker-Darkscape.kfm
+
+[KF-OfficesRE.kfm KFMapSummary]
+MapName=KF-OfficesRE.kfm
+
+[KF-BurningParisNightDay.kfm KFMapSummary]
+MapName=KF-BurningParisNightDay.kfm
+
+[KF-RomanArena.kfm KFMapSummary]
+MapName=KF-RomanArena.kfm
+
+[KF-DarkArena.kfm KFMapSummary]
+MapName=KF-DarkArena.kfm
+
+[KF-RawrArena2.kfm KFMapSummary]
+MapName=KF-RawrArena2.kfm
+
+[KF-ApexB5-FIX.kfm KFMapSummary]
+MapName=KF-ApexB5-FIX.kfm
+
+[KF-420-GanjaFarm.kfm KFMapSummary]
+MapName=KF-420-GanjaFarm.kfm
+
+[KF-Desolation.kfm KFMapSummary]
+MapName=KF-Desolation.kfm
+
+[KF-Ausserirdischer.kfm KFMapSummary]
+MapName=KF-Ausserirdischer.kfm
+
+[KF-Pit.kfm KFMapSummary]
+MapName=KF-Pit.kfm
+
+[KF-Extinction.kfm KFMapSummary]
+MapName=KF-Extinction.kfm
+
+[KF-FartBox.kfm KFMapSummary]
+MapName=KF-FartBox.kfm
+
+[KF-MP2_Pipeline.kfm KFMapSummary]
+MapName=KF-MP2_Pipeline.kfm
+
+[KF-HostileUnderGround.kfm KFMapSummary]
+MapName=KF-HostileUnderGround.kfm
+
+[KF-OutoftheFog.kfm KFMapSummary]
+MapName=KF-OutoftheFog.kfm
+
+[KF-CanvilleEvening.kfm KFMapSummary]
+MapName=KF-CanvilleEvening.kfm
+
+[KF-Scavenger.kfm KFMapSummary]
+MapName=KF-Scavenger.kfm
+
+[KF-MP2_SpiderComplex.kfm KFMapSummary]
+MapName=KF-MP2_SpiderComplex.kfm
+
+[KF-RoundAbout.kfm KFMapSummary]
+MapName=KF-RoundAbout.kfm
+
+[KF-RiverRuins.kfm KFMapSummary]
+MapName=KF-RiverRuins.kfm
+
+[KF-CanvilleChristmas.kfm KFMapSummary]
+MapName=KF-CanvilleChristmas.kfm
+
+[KF-HotHere.kfm KFMapSummary]
+MapName=KF-HotHere.kfm
+
+[KF-CS_MilitiaFix.kfm KFMapSummary]
+MapName=KF-CS_MilitiaFix.kfm
+
+[KF-MillTown-BurgerKing.kfm KFMapSummary]
+MapName=KF-MillTown-BurgerKing.kfm
+
+[KF-MotherBase_beta3.kfm KFMapSummary]
+MapName=KF-MotherBase_beta3.kfm
+
+[KF-Death_Marsh.kfm KFMapSummary]
+MapName=KF-Death_Marsh.kfm
+
+[KF-Dust2Classic.kfm KFMapSummary]
+MapName=KF-Dust2Classic.kfm
+
+[KF-SwampDefence.kfm KFMapSummary]
+MapName=KF-SwampDefence.kfm
+
+[KF-TF2_2Fort.kfm KFMapSummary]
+MapName=KF-TF2_2Fort.kfm
+
+[KF-KF1-FrightYard.kfm KFMapSummary]
+MapName=KF-KF1-FrightYard.kfm
+
+[KF-survivor.kfm KFMapSummary]
+MapName=KF-survivor.kfm
+
+[KF-ThePit.kfm KFMapSummary]
+MapName=KF-ThePit.kfm
+
+[KF-AlienArena.kfm KFMapSummary]
+MapName=KF-AlienArena.kfm
+
+[KF-inferno.kfm KFMapSummary]
+MapName=KF-inferno.kfm
+
+[KF-SpaceWhite.kfm KFMapSummary]
+MapName=KF-SpaceWhite.kfm
+
+[KF-TF2_2Fort_Holdout.kfm KFMapSummary]
+MapName=KF-TF2_2Fort_Holdout.kfm
+
+[KF-Highschool.kfm KFMapSummary]
+MapName=KF-Highschool.kfm
+
+[KF-LakeEanor.kfm KFMapSummary]
+MapName=KF-LakeEanor.kfm
+
+[KF-Hells_Fire2.kfm KFMapSummary]
+MapName=KF-Hells_Fire2.kfm
+
+[KF-RE4_Village_beta.kfm KFMapSummary]
+MapName=KF-RE4_Village_beta.kfm
+
+[KF-HalloweenInferno.kfm KFMapSummary]
+MapName=KF-HalloweenInferno.kfm
+
+[KF-NoMercy.kfm KFMapSummary]
+MapName=KF-NoMercy.kfm
+
+[KF-PK-Catacombs.kfm KFMapSummary]
+MapName=KF-PK-Catacombs.kfm
+
+[KF-ChillyCave.kfm KFMapSummary]
+MapName=KF-ChillyCave.kfm
+
+[KF-Husk_Factory.kfm KFMapSummary]
+MapName=KF-Husk_Factory.kfm
+
+[KF-KF1_Wyre.kfm KFMapSummary]
+MapName=KF-KF1_Wyre.kfm
+
+[KF-TheLibrary.kfm KFMapSummary]
+MapName=KF-TheLibrary.kfm
+
+[KF-PK-Enclave.kfm KFMapSummary]
+MapName=KF-PK-Enclave.kfm
+
+[KF-LightBridges.kfm KFMapSummary]
+MapName=KF-LightBridges.kfm
+
+[KF-WithTeeth.kfm KFMapSummary]
+MapName=KF-WithTeeth.kfm
+
+[KF-KF1_TheForestHouse.kfm KFMapSummary]
+MapName=KF-KF1_TheForestHouse.kfm
+
+[KF-GreatWall.kfm KFMapSummary]
+MapName=KF-GreatWall.kfm
+
+[KF-ShadowZone_Remastered.kfm KFMapSummary]
+MapName=KF-ShadowZone_Remastered.kfm
+
+[KF-PK-Colosseum.kfm KFMapSummary]
+MapName=KF-PK-Colosseum.kfm
+
+[KF-Stalker-Rostok-Bar.kfm KFMapSummary]
+MapName=KF-Stalker-Rostok-Bar.kfm
+
+[KF-Distillery.kfm KFMapSummary]
+MapName=KF-Distillery.kfm
+
+[KF-RatsCafeXmas.kfm KFMapSummary]
+MapName=KF-RatsCafeXmas.kfm
+
+[KF-Zedmas.kfm KFMapSummary]
+MapName=KF-Zedmas.kfm
+
+[KF-RawrsCube.kfm KFMapSummary]
+MapName=KF-RawrsCube.kfm
+
+[KF-ThreeDomes.kfm KFMapSummary]
+MapName=KF-ThreeDomes.kfm
+
+[KF-SilentNight.kfm KFMapSummary]
+MapName=KF-SilentNight.kfm
+
+[KF-Alicia_Madness_Returns_The_House_of_Dolls5.kfm KFMapSummary]
+MapName=KF-Alicia_Madness_Returns_The_House_of_Dolls5.kfm
+
+[KF-ThrillsChills.kfm KFMapSummary]
+MapName=KF-ThrillsChills.kfm
+
+[KF-RatsBedroomXmas.kfm KFMapSummary]
+MapName=KF-RatsBedroomXmas.kfm
+
+[KF-Military-Base.kfm KFMapSummary]
+MapName=KF-Military-Base.kfm
+
+[KF-RiversideVillage_fix.kfm KFMapSummary]
+MapName=KF-RiversideVillage_fix.kfm
+
+[kf-zedacombs.kfm KFMapSummary]
+MapName=kf-zedacombs.kfm
+
+[KF-Hellscape.kfm KFMapSummary]
+MapName=KF-Hellscape.kfm
+
+[KF-OperaHouse.kfm KFMapSummary]
+MapName=KF-OperaHouse.kfm
+
+[KF-GoreHouse.kfm KFMapSummary]
+MapName=KF-GoreHouse.kfm
+
+[KF-TenkaichiBudokai.kfm KFMapSummary]
+MapName=KF-TenkaichiBudokai.kfm
+
+[KF-Playland.kfm KFMapSummary]
+MapName=KF-Playland.kfm
+
+[KF-Coast_Defence.kfm KFMapSummary]
+MapName=KF-Coast_Defence.kfm
+
+[KF-Amuse_Complex.kfm KFMapSummary]
+MapName=KF-Amuse_Complex.kfm
+
+[KF-ZedDrop.kfm KFMapSummary]
+MapName=KF-ZedDrop.kfm
+
+[KF-Tomb.kfm KFMapSummary]
+MapName=KF-Tomb.kfm
+
+[KF-StarWarsTheArena.kfm KFMapSummary]
+MapName=KF-StarWarsTheArena.kfm
+
+[KF-Canals.kfm KFMapSummary]
+MapName=KF-Canals.kfm
+
+[KF-StarWarsGeonosisArena.kfm KFMapSummary]
+MapName=KF-StarWarsGeonosisArena.kfm
+
+[KF-2way.kfm KFMapSummary]
+MapName=KF-2way.kfm
+
+[KF-BattleShips.kfm KFMapSummary]
+MapName=KF-BattleShips.kfm
+
+[KF-StarWarsKamino.kfm KFMapSummary]
+MapName=KF-StarWarsKamino.kfm
+
+[KF-Stalker-RedForest.kfm KFMapSummary]
+MapName=KF-Stalker-RedForest.kfm
+
+[KF-CyberWorld.kfm KFMapSummary]
+MapName=KF-CyberWorld.kfm
+
+[KF-ZASHIKI.kfm KFMapSummary]
+MapName=KF-ZASHIKI.kfm
+
+[KF-ManyRooms.kfm KFMapSummary]
+MapName=KF-ManyRooms.kfm
+
+[KF-Sealab.kfm KFMapSummary]
+MapName=KF-Sealab.kfm
+
+[KF-RatsCafeParis.kfm KFMapSummary]
+MapName=KF-RatsCafeParis.kfm
+
+[KF-DeepingWall_Edited.kfm KFMapSummary]
+MapName=KF-DeepingWall_Edited.kfm
+
+[KF-BarrioMuerte.kfm KFMapSummary]
+MapName=KF-BarrioMuerte.kfm
+
+[KF-Cuboid-v3.kfm KFMapSummary]
+MapName=KF-Cuboid-v3.kfm
+
+[KF-PathfindersBasement.kfm KFMapSummary]
+MapName=KF-PathfindersBasement.kfm
+
+[KF-SiloSeven.kfm KFMapSummary]
+MapName=KF-SiloSeven.kfm
+
+[KF-DEPOT.kfm KFMapSummary]
+MapName=KF-DEPOT.kfm
+
+[KF-Sanitarium.kfm KFMapSummary]
+MapName=KF-Sanitarium.kfm
+
+[KF-TheLibrary_2018.kfm KFMapSummary]
+MapName=KF-TheLibrary_2018.kfm
+
+[KF-DinoWorld.kfm KFMapSummary]
+MapName=KF-DinoWorld.kfm
+
+[KF-Aftermath.kfm KFMapSummary]
+MapName=KF-Aftermath.kfm
+
+[KF-Zedoland-2.kfm KFMapSummary]
+MapName=KF-Zedoland-2.kfm
+
+[KF-PollutionIndustries.kfm KFMapSummary]
+MapName=KF-PollutionIndustries.kfm
+
+[KF-Mist.kfm KFMapSummary]
+MapName=KF-Mist.kfm
+
+[kf-concrete_halls.kfm KFMapSummary]
+MapName=kf-concrete_halls.kfm
+
+[KF-TwistedStory.kfm KFMapSummary]
+MapName=KF-TwistedStory.kfm
+
+[KF-LeningradStormv1-2.kfm KFMapSummary]
+MapName=KF-LeningradStormv1-2.kfm
+
+[KF-District_VII_Objective.kfm KFMapSummary]
+MapName=KF-District_VII_Objective.kfm
+
+[KF-District_VII_Survival.kfm KFMapSummary]
+MapName=KF-District_VII_Survival.kfm
+
+[KF-TrainingGrounds.kfm KFMapSummary]
+MapName=KF-TrainingGrounds.kfm
+
+[KF-Large_Zedron_Collider-beta21.kfm KFMapSummary]
+MapName=KF-Large_Zedron_Collider-beta21.kfm
+
+[KF-Hellscape.kfm KFMapSummary]
+MapName=KF-Hellscape.kfm
+
+[KF-Arctic_Station11.kfm KFMapSummary]
+MapName=KF-Arctic_Station11.kfm
+
+[KF-WreckedTreeHouse.kfm KFMapSummary]
+MapName=KF-WreckedTreeHouse.kfm
+
+[KF-ToiletMap.kfm KFMapSummary]
+MapName=KF-ToiletMap.kfm
+
+[KF-Tyro.kfm KFMapSummary]
+MapName=KF-Tyro.kfm
+
+[KF-LastLine.kfm KFMapSummary]
+MapName=KF-LastLine.kfm
+
+[KF-WaterHazard.kfm KFMapSummary]
+MapName=KF-WaterHazard.kfm
+
+[KF-HellsCryptV2.kfm KFMapSummary]
+MapName=KF-HellsCryptV2.kfm
+
+[KF-ToiletMap_Clean_Edition.kfm KFMapSummary]
+MapName=KF-ToiletMap_Clean_Edition.kfm
+
+[KF-KF1-HadleysHallway.kfm KFMapSummary]
+MapName=KF-KF1-HadleysHallway.kfm
+
+[kf-clocktown.kfm KFMapSummary]
+MapName=kf-clocktown.kfm
+
+[KF-Meltdown.kfm KFMapSummary]
+MapName=KF-Meltdown.kfm
+
+[KF-KF1-Medieval_Fortress.kfm KFMapSummary]
+MapName=KF-KF1-Medieval_Fortress.kfm
+
+[KF-GardenHeights.kfm KFMapSummary]
+MapName=KF-GardenHeights.kfm
+
+[KF-Nexus.kfm KFMapSummary]
+MapName=KF-Nexus.kfm
+
+[KF-HouseInTheWoods-V4final.kfm KFMapSummary]
+MapName=KF-HouseInTheWoods-V4final.kfm
+
+[KF-Path_To_The_Void.kfm KFMapSummary]
+MapName=KF-Path_To_The_Void.kfm
+
+[kf-StateSurvivalFarmlands.kfm KFMapSummary]
+MapName=kf-StateSurvivalFarmlands.kfm
+
+[KF-PitShack.kfm KFMapSummary]
+MapName=KF-PitShack.kfm
+
+[KF-CenterTown.kfm KFMapSummary]
+MapName=KF-CenterTown.kfm
+
+[KF-Caves.kfm KFMapSummary]
+MapName=KF-Caves.kfm
+
+[KF-DemolitionParty.kfm KFMapSummary]
+MapName=KF-DemolitionParty.kfm
+
+[KF-DownTownCity.kfm KFMapSummary]
+MapName=KF-DownTownCity.kfm
+
+[KF-FARMHOUSE-DAY.kfm KFMapSummary]
+MapName=KF-FARMHOUSE-DAY.kfm
+
+[kf-biocola.kfm KFMapSummary]
+MapName=kf-biocola.kfm
+
+[KF-KF1-Manor-Snow.kfm KFMapSummary]
+MapName=KF-KF1-Manor-Snow.kfm
+
+[KF-Lost.kfm KFMapSummary]
+MapName=KF-Lost.kfm
+
+[KF-HeavyContainment.kfm KFMapSummary]
+MapName=KF-HeavyContainment.kfm
+
+[KF-Devils-Dollhouse-Descent.kfm KFMapSummary]
+MapName=KF-Devils-Dollhouse-Descent.kfm
+
+[KF-IceArena.kfm KFMapSummary]
+MapName=KF-IceArena.kfm
+
+[KF-OilRigSubstation-v2.kfm KFMapSummary]
+MapName=KF-OilRigSubstation-v2.kfm
+
+[KF-NewCubeRemakeFinalV1.kfm KFMapSummary]
+MapName=KF-NewCubeRemakeFinalV1.kfm
+
+[KF-Checkpoint.kfm KFMapSummary]
+MapName=KF-Checkpoint.kfm
+
+[KF-NewDeathBasin.kfm KFMapSummary]
+MapName=KF-NewDeathBasin.kfm
+
+[KF-MawOfMadness_v2.kfm KFMapSummary]
+MapName=KF-MawOfMadness_v2.kfm
+
+[KF-N64Complex-V3.kfm KFMapSummary]
+MapName=KF-N64Complex-V3.kfm
+
+[KF-Skyscraperfun.kfm KFMapSummary]
+MapName=KF-Skyscraperfun.kfm
+
+[KF-HotelZed.kfm KFMapSummary]
+MapName=KF-HotelZed.kfm
+
+[KF-ZedHarvest.kfm KFMapSummary]
+MapName=KF-ZedHarvest.kfm
+
+[KF-Abyss.kfm KFMapSummary]
+MapName=KF-Abyss.kfm
+
+[KF-PollutionFactory.kfm KFMapSummary]
+MapName=KF-PollutionFactory.kfm
+
+[KF-BikiniAtoll.kfm KFMapSummary]
+MapName=KF-BikiniAtoll.kfm
+
+[KF-TheDuke.kfm KFMapSummary]
+MapName=KF-TheDuke.kfm
+
+[KF-DarkZone.kfm KFMapSummary]
+MapName=KF-DarkZone.kfm
+
+[KF-HorzineExpress.kfm KFMapSummary]
+MapName=KF-HorzineExpress.kfm
+
+[KF-TaintedGrove.kfm KFMapSummary]
+MapName=KF-TaintedGrove.kfm
+
+[KF-Caged.kfm KFMapSummary]
+MapName=KF-Caged.kfm
+
+[KF-SpaceportPerdition.kfm KFMapSummary]
+MapName=KF-SpaceportPerdition.kfm
+
+[KF-Antarctic-09b.kfm KFMapSummary]
+MapName=KF-Antarctic-09b.kfm
+
+[KF-The_Lions_Head_v1.kfm KFMapSummary]
+MapName=KF-The_Lions_Head_v1.kfm
+
+[KF-Slaughterhouse-v2-2.kfm KFMapSummary]
+MapName=KF-Slaughterhouse-v2-2.kfm
+
+[KF-N64_Mario.kfm KFMapSummary]
+MapName=KF-N64_Mario.kfm
+
+[KF-Fog_Rig_CONTEST.kfm KFMapSummary]
+MapName=KF-Fog_Rig_CONTEST.kfm
+
+[KF-SantasHouse.kfm KFMapSummary]
+MapName=KF-SantasHouse.kfm
+
+[KF-DeathCaveA5.kfm KFMapSummary]
+MapName=KF-DeathCaveA5.kfm
+
+[KF-SLS-Skull_Island-Beta23.kfm KFMapSummary]
+MapName=KF-SLS-Skull_Island-Beta23.kfm
+
+[KF-DooM_2_MAP01.kfm KFMapSummary]
+MapName=KF-DooM_2_MAP01.kfm
+
+[KF-DeadShore_158.kfm KFMapSummary]
+MapName=KF-DeadShore_158.kfm
+
+[KF-Insurrection.kfm KFMapSummary]
+MapName=KF-Insurrection.kfm
+
+[KF-DeathSentenceFinal.kfm KFMapSummary]
+MapName=KF-DeathSentenceFinal.kfm
+
+[KF-Deadline.kfm KFMapSummary]
+MapName=KF-Deadline.kfm
+
+[KF-GrooveYard.kfm KFMapSummary]
+MapName=KF-GrooveYard.kfm
+
+[KF-SLS-Cell_Block_Six-Beta2.kfm KFMapSummary]
+MapName=KF-SLS-Cell_Block_Six-Beta2.kfm
+
+[KF-BioticsLabUK.kfm KFMapSummary]
+MapName=KF-BioticsLabUK.kfm
+
+[KF-Subterrane-v3e.kfm KFMapSummary]
+MapName=KF-Subterrane-v3e.kfm
+
+[KF-SectorC3-v3c.kfm KFMapSummary]
+MapName=KF-SectorC3-v3c.kfm
+
+[KF-Antize-RE2_RPD.kfm KFMapSummary]
+MapName=KF-Antize-RE2_RPD.kfm
+
+[KF-ClassicBioticsLab.kfm KFMapSummary]
+MapName=KF-ClassicBioticsLab.kfm
+
+[KF-Cucumber.kfm KFMapSummary]
+MapName=KF-Cucumber.kfm
+
+[KF-PandoraSquare.kfm KFMapSummary]
+MapName=KF-PandoraSquare.kfm
+
+[KF-Antize_Defence_on_road.kfm KFMapSummary]
+MapName=KF-Antize_Defence_on_road.kfm
+
+[KF-GenesisComplex.kfm KFMapSummary]
+MapName=KF-GenesisComplex.kfm
+
+[KF-BusStop.kfm KFMapSummary]
+MapName=KF-BusStop.kfm
+
+[KF-Deck17_V1.kfm KFMapSummary]
+MapName=KF-Deck17_V1.kfm
+
+[KF-Komplex.kfm KFMapSummary]
+MapName=KF-Komplex.kfm
+
+[KF-Museum.kfm KFMapSummary]
+MapName=KF-Museum.kfm
+
+[KF-LetsTryGas_03.kfm KFMapSummary]
+MapName=KF-LetsTryGas_03.kfm
+
+[KF-KF1_Manor.kfm KFMapSummary]
+MapName=KF-KF1_Manor.kfm
+
+[KF-Mira's_Library.kfm KFMapSummary]
+MapName=KF-Mira's_Library.kfm
+
+[KF-Favela2B3.kfm KFMapSummary]
+MapName=KF-Favela2B3.kfm
+
+[KF-Santa_to_Xmas.kfm KFMapSummary]
+MapName=KF-Santa_to_Xmas.kfm
+
+[KF-TinyTown.kfm KFMapSummary]
+MapName=KF-TinyTown.kfm
+
+[KF-C28.kfm KFMapSummary]
+MapName=KF-C28.kfm
+
+[KF-A-UnwelcomeGuest.kfm KFMapSummary]
+MapName=KF-A-UnwelcomeGuest.kfm
+
+[KF-Cardonal.kfm KFMapSummary]
+MapName=KF-Cardonal.kfm
+
+[KF-Serenity.kfm KFMapSummary]
+MapName=KF-Serenity.kfm
+
+[KF-KF1_West_London.kfm KFMapSummary]
+MapName=KF-KF1_West_London.kfm
+
+[KF-AncientCistern.kfm KFMapSummary]
+MapName=KF-AncientCistern.kfm
+
+[KF-Horzine-MilitaryBase.kfm KFMapSummary]
+MapName=KF-Horzine-MilitaryBase.kfm
+
+[KF-Asgard.kfm KFMapSummary]
+MapName=KF-Asgard.kfm
+
+[KF-PyramidDefense.kfm KFMapSummary]
+MapName=KF-PyramidDefense.kfm
+
+[KF-BeforeDawn.kfm KFMapSummary]
+MapName=KF-BeforeDawn.kfm
+
+[KF-CityBlockade.kfm KFMapSummary]
+MapName=KF-CityBlockade.kfm
+
+[KF-Secret_Base.kfm KFMapSummary]
+MapName=KF-Secret_Base.kfm
+
+[KF-Beach_Invasion.kfm KFMapSummary]
+MapName=KF-Beach_Invasion.kfm
+
+[KF-Dive_to_the_Heart.kfm KFMapSummary]
+MapName=KF-Dive_to_the_Heart.kfm
+
+[KF-Entryway.kfm KFMapSummary]
+MapName=KF-Entryway.kfm
+
+[KF-Defence-2015.kfm KFMapSummary]
+MapName=KF-Defence-2015.kfm
+
+[KF-Kokiri_Forest.kfm KFMapSummary]
+MapName=KF-Kokiri_Forest.kfm
+
+[KF-YetAnotherZombieDefense.kfm KFMapSummary]
+MapName=KF-YetAnotherZombieDefense.kfm
+
+[KF-ChillwindPlateau.kfm KFMapSummary]
+MapName=KF-ChillwindPlateau.kfm
+
+[KF-Aphrodite.kfm KFMapSummary]
+MapName=KF-Aphrodite.kfm
+
+[KF-RE4_Cabin.kfm KFMapSummary]
+MapName=KF-RE4_Cabin.kfm
+
+[KF-BoxWithoutHope-B5.kfm KFMapSummary]
+MapName=KF-BoxWithoutHope-B5.kfm
+
+[KF-Asylum.kfm KFMapSummary]
+MapName=KF-Asylum.kfm
+
+[kf-laststand.kfm KFMapSummary]
+MapName=kf-laststand.kfm
+
+[KF-Rig.kfm KFMapSummary]
+MapName=KF-Rig.kfm
+
+[KF-Cell_Alpha.kfm KFMapSummary]
+MapName=KF-Cell_Alpha.kfm
+
+[KF-finlandwinterland.kfm KFMapSummary]
+MapName=KF-finlandwinterland.kfm
+
+[KF-IceBound.kfm KFMapSummary]
+MapName=KF-IceBound.kfm
+
+[KF-Cliffside.kfm KFMapSummary]
+MapName=KF-Cliffside.kfm
+
+[KF-Gloom.kfm KFMapSummary]
+MapName=KF-Gloom.kfm
+
+[KF-Zedsplosion.kfm KFMapSummary]
+MapName=KF-Zedsplosion.kfm
+
+[KF-XmasPark.kfm KFMapSummary]
+MapName=KF-XmasPark.kfm
+
+[KF-Mario_Room.kfm KFMapSummary]
+MapName=KF-Mario_Room.kfm
+
+[KF-Sahara.kfm KFMapSummary]
+MapName=KF-Sahara.kfm
+
+[KF-Transient.kfm KFMapSummary]
+MapName=KF-Transient.kfm
+
+[KF-Offices.kfm KFMapSummary]
+MapName=KF-Offices.kfm
+
+[KF-Kusomiso_Floor.kfm KFMapSummary]
+MapName=KF-Kusomiso_Floor.kfm
+
+[KF-Netherhold.kfm KFMapSummary]
+MapName=KF-Netherhold.kfm
+
+[KF-WaterOnMars.kfm KFMapSummary]
+MapName=KF-WaterOnMars.kfm
+
+[KF-WinterFarm.kfm KFMapSummary]
+MapName=KF-WinterFarm.kfm
+
+[KF-DescentB1-01.kfm KFMapSummary]
+MapName=KF-DescentB1-01.kfm
+
+[KF-Stalker-Sarcophagus.kfm KFMapSummary]
+MapName=KF-Stalker-Sarcophagus.kfm
+
+[KF-KillZone.kfm KFMapSummary]
+MapName=KF-KillZone.kfm
+
+[KF-Emergence.kfm KFMapSummary]
+MapName=KF-Emergence.kfm
+
+[KF-BoxWithoutHopeRMEdition.kfm KFMapSummary]
+MapName=KF-BoxWithoutHopeRMEdition.kfm
+
+[KF-Stalker-PrometheusWinterRMEdition.kfm KFMapSummary]
+MapName=KF-Stalker-PrometheusWinterRMEdition.kfm
+
+[KF-Stalker-PrometheusWinterDay.kfm KFMapSummary]
+MapName=KF-Stalker-PrometheusWinterDay.kfm
+
+[KF-Splinter.kfm KFMapSummary]
+MapName=KF-Splinter.kfm
+
+[KF-Mario_64_Remastered.kfm KFMapSummary]
+MapName=KF-Mario_64_Remastered.kfm
+
+[KF-Afghanistan.kfm KFMapSummary]
+MapName=KF-Afghanistan.kfm
+
+[KF-Monochrome.kfm KFMapSummary]
+MapName=KF-Monochrome.kfm
+
+[KF-Biohazard.kfm KFMapSummary]
+MapName=KF-Biohazard.kfm
+
+[KF-Mini_Green.kfm KFMapSummary]
+MapName=KF-Mini_Green.kfm
+
+[KF-MountainPass_zfix.kfm KFMapSummary]
+MapName=KF-MountainPass_zfix.kfm
+
+[KF-GrooveYard_XMAS.kfm KFMapSummary]
+MapName=KF-GrooveYard_XMAS.kfm
+
+[KF-CarillonHamletB1.kfm KFMapSummary]
+MapName=KF-CarillonHamletB1.kfm
+
+[KF-GrooveYard_HALLOWEEN.kfm KFMapSummary]
+MapName=KF-GrooveYard_HALLOWEEN.kfm
+
+[KF-MoonRaker.kfm KFMapSummary]
+MapName=KF-MoonRaker.kfm
+
+[KF-Meow_Remake.kfm KFMapSummary]
+MapName=KF-Meow_Remake.kfm
+
+[KF-Stalker-Limansk.kfm KFMapSummary]
+MapName=KF-Stalker-Limansk.kfm
+
+[KF-ZedHuntersNightmare.kfm KFMapSummary]
+MapName=KF-ZedHuntersNightmare.kfm
+
+[KF-VolterCastle.kfm KFMapSummary]
+MapName=KF-VolterCastle.kfm
+
+[KF-SpiralSlaughter.kfm KFMapSummary]
+MapName=KF-SpiralSlaughter.kfm
+
+[KF-FalloutHangarV2.kfm KFMapSummary]
+MapName=KF-FalloutHangarV2.kfm
+
+[KF-Roof11V3.kfm KFMapSummary]
+MapName=KF-Roof11V3.kfm
+
+[KF-HorzineForest.kfm KFMapSummary]
+MapName=KF-HorzineForest.kfm
+
+[KF-E1M1.kfm KFMapSummary]
+MapName=KF-E1M1.kfm
+
+[KF-ATAKAV2.kfm KFMapSummary]
+MapName=KF-ATAKAV2.kfm
+
+[KF-Homestead.kfm KFMapSummary]
+MapName=KF-Homestead.kfm
+
+[KF-Stalker-Hospital.kfm KFMapSummary]
+MapName=KF-Stalker-Hospital.kfm
+
+[KF-Stalker-LabX8.kfm KFMapSummary]
+MapName=KF-Stalker-LabX8.kfm
+
+[KF-Stalker-LabX16.kfm KFMapSummary]
+MapName=KF-Stalker-LabX16.kfm
+
+[KF-KF1-LilBigClot-Kitchen.kfm KFMapSummary]
+MapName=KF-KF1-LilBigClot-Kitchen.kfm
+
+[KF-Factory.kfm KFMapSummary]
+MapName=KF-Factory.kfm
+
+[KF-KF1_Foundry.kfm KFMapSummary]
+MapName=KF-KF1_Foundry.kfm
+
+[KF-MansionCS1_6-Winter.kfm KFMapSummary]
+MapName=KF-MansionCS1_6-Winter.kfm
+
+[KF-Dystopia2029.kfm KFMapSummary]
+MapName=KF-Dystopia2029.kfm
+
+[KF-EasterEscape.kfm KFMapSummary]
+MapName=KF-EasterEscape.kfm
+
+[KF-DD-TowerSiege.kfm KFMapSummary]
+MapName=KF-DD-TowerSiege.kfm
+
+[KF-PalletTown.kfm KFMapSummary]
+MapName=KF-PalletTown.kfm
+
+[KF-Stalker-Cordon.kfm KFMapSummary]
+MapName=KF-Stalker-Cordon.kfm
+
+[KF-SewersAssault.kfm KFMapSummary]
+MapName=KF-SewersAssault.kfm
+
+[kf-Garden.kfm KFMapSummary]
+MapName=kf-Garden.kfm
+
+[KF-DeathBasinSands.kfm KFMapSummary]
+MapName=KF-DeathBasinSands.kfm
+
+[KF-AsylumRevived.kfm KFMapSummary]
+MapName=KF-AsylumRevived.kfm
+
+[KF-De_Dust2.kfm KFMapSummary]
+MapName=KF-De_Dust2.kfm
+
+[KF-CS_Shoots.kfm KFMapSummary]
+MapName=KF-CS_Shoots.kfm
+
+[KF-ClubTux.kfm KFMapSummary]
+MapName=KF-ClubTux.kfm
+
+[KF-CSGO_Assault.kfm KFMapSummary]
+MapName=KF-CSGO_Assault.kfm
+
+[KF-CSGO_Office.kfm KFMapSummary]
+MapName=KF-CSGO_Office.kfm
+
+[KF-Stalker-Agroprom.kfm KFMapSummary]
+MapName=KF-Stalker-Agroprom.kfm
+
+[KF-Stalker-Agroprom-2017Remake.kfm KFMapSummary]
+MapName=KF-Stalker-Agroprom-2017Remake.kfm
+
+[KF-Koholintv06.kfm KFMapSummary]
+MapName=KF-Koholintv06.kfm
+
+[KF-Farm.kfm KFMapSummary]
+MapName=KF-Farm.kfm
+
+[KF-Verticality.kfm KFMapSummary]
+MapName=KF-Verticality.kfm
+
