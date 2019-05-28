@@ -13,7 +13,7 @@ A simple program that grabs your subscribed steam workshop maps and outputs the 
 5. Press Ctrl+A to **Select All** and Ctrl+C to **Copy**
 6. Paste the text from *ServerSubscribedWorkshopItems.txt* into **PCServer-KFEngine.ini** under the appropriate section
 7. Paste the text from *WebAdmin.txt* into **PCServer-KFGame.ini** under the appropriate section
-8. Paste the text from *GameMapCycles.txt* into **PCServer-KFGame.ini** at the end of the line "GameMapCycles=". **Dont forget to remove the last two )) before pasting the text and also make sure to re-add it at the end after pasting.**
+8. Paste the text from *GameMapCycles.txt* into **PCServer-KFGame.ini** at the end of the line "GameMapCycles=". **Dont forget to remove the last two "))" at the end of the line before pasting the new text in. Also make sure to re-add it at the end after pasting.**
 9. Save everything
 10. Run server
 11. Let server install the maps (Will take a bit depending on how many maps you have installed. Be patient)
