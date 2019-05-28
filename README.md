@@ -1,6 +1,9 @@
 # KF2-Easy-Server-Map-Adder
 A simple program that grabs your subscribed steam workshop maps and outputs the lines you have to add to the server configs to get custom maps on your server
 
+> * [How To Use](https://github.com/SethCohen/KF2-Easy-Server-Map-Adder#how-to-use)
+> * [Screenshots](https://github.com/SethCohen/KF2-Easy-Server-Map-Adder#screenshots)
+
 ## How To Use:
 
 1. Download and run the exe (or jar)
@@ -15,7 +18,7 @@ A simple program that grabs your subscribed steam workshop maps and outputs the 
 10. Run server
 11. Let server install the maps (Will take a bit depending on how many maps you have installed. Be patient)
 
-For additional help, follow the actual guide: https://wiki.killingfloor2.com/index.php?title=Dedicated_Server_(Killing_Floor_2)
+For additional help for anything past Step 4, follow the actual guide for adding custom maps to servers: https://wiki.killingfloor2.com/index.php?title=Dedicated_Server_(Killing_Floor_2)
 
 ## Screenshots:
 
