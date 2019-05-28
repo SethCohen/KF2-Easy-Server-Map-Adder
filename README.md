@@ -1,7 +1,8 @@
 # KF2-Easy-Server-Map-Adder
 A simple program that grabs your subscribed steam workshop maps and outputs the lines you have to add to the server configs to get custom maps on your server
 
-##How To Use:
+## How To Use:
+
 1. Download and run the exe (or jar)
 2. Select the directory where the workshop maps are saved to (Typically found in **C:\Program Files (x86)\Steam\steamapps\workshop\content\232090** or **\Documents\My Games\KillingFloor2\KFGame\Cache**)
 3. Press the **Confirm** button
@@ -16,7 +17,8 @@ A simple program that grabs your subscribed steam workshop maps and outputs the 
 
 For additional help, follow the actual guide: https://wiki.killingfloor2.com/index.php?title=Dedicated_Server_(Killing_Floor_2)
 
-##Screenshots:
+## Screenshots:
+
 ![Screenshot1](https://i.imgur.com/E8omgDL.png)
 ![Screenshot2](https://i.imgur.com/Q8OsH4f.png)
 ![Screenshot3](https://i.imgur.com/Q5WrRKV.png)
