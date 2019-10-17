@@ -1,0 +1,60 @@
+[KF-Abyss KFMapSummary]
+MapName=KF-Abyss
+
+[KF-Arctic_Station11 KFMapSummary]
+MapName=KF-Arctic_Station11
+
+[KF-Biolapse KFMapSummary]
+MapName=KF-Biolapse
+
+[KF-BurningParisNightDay KFMapSummary]
+MapName=KF-BurningParisNightDay
+
+[KF-BusStop KFMapSummary]
+MapName=KF-BusStop
+
+[KF-Caged KFMapSummary]
+MapName=KF-Caged
+
+[KF-Canals KFMapSummary]
+MapName=KF-Canals
+
+[KF-Cardonal KFMapSummary]
+MapName=KF-Cardonal
+
+[KF-Cell_Alpha KFMapSummary]
+MapName=KF-Cell_Alpha
+
+[KF-ChillwindPlateau KFMapSummary]
+MapName=KF-ChillwindPlateau
+
+[KF-Cliffside KFMapSummary]
+MapName=KF-Cliffside
+
+[KF-ClubConfession KFMapSummary]
+MapName=KF-ClubConfession
+
+[KF-ClubTux KFMapSummary]
+MapName=KF-ClubTux
+
+[KF-Colegio KFMapSummary]
+MapName=KF-Colegio
+
+[KF-Cucumber KFMapSummary]
+MapName=KF-Cucumber
+
+[KF-CyberWorld KFMapSummary]
+MapName=KF-CyberWorld
+
+[KF-CytologyLab KFMapSummary]
+MapName=KF-CytologyLab
+
+[KF-DeathCaveA5 KFMapSummary]
+MapName=KF-DeathCaveA5
+
+[KF-Deck17_V1 KFMapSummary]
+MapName=KF-Deck17_V1
+
+[kf-concrete_halls KFMapSummary]
+MapName=kf-concrete_halls
+
