@@ -3,7 +3,7 @@ A simple program that grabs your subscribed steam workshop maps and outputs the 
 
 > * [How To Use](https://github.com/SethCohen/KF2-Easy-Server-Map-Adder#how-to-use)
 > * [Screenshots](https://github.com/SethCohen/KF2-Easy-Server-Map-Adder#screenshots)
-> * [Video Tutorial](https://www.youtube.com/watch?v=cBArw1JG8Co&feature=youtu.be)
+> * [Video Tutorial](https://youtu.be/maLiXN8EfG4)
 
 ## How To Use:
 
