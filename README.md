@@ -23,8 +23,10 @@ For additional help for anything past Step 4, follow the actual guide for adding
 
 ## Screenshots:
 
-![Screenshot1](https://i.imgur.com/E8omgDL.png)
-![Screenshot2](https://i.imgur.com/Q8OsH4f.png)
-![Screenshot3](https://i.imgur.com/Q5WrRKV.png)
-![Screenshot4](https://i.imgur.com/qnwNrmo.png)
-![Screenshot5](https://i.imgur.com/ZDuCjjm.png)
+![Screenshot1](https://i.imgur.com/gyyxMtP.png)
+![Screenshot2](https://i.imgur.com/sRPrugG.png)
+![Screenshot3](https://i.imgur.com/AWhoRFw.png)
+![Screenshot4](https://i.imgur.com/ReBg7rE.png)
+![Screenshot5](https://i.imgur.com/89ZI7mD.png)
+![Screenshot6](https://i.imgur.com/eK5V4sy.png)
+![Screenshot7](https://i.imgur.com/TXR7M2y.png)
