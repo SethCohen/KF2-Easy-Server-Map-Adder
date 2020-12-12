@@ -7,6 +7,7 @@ A simple program that grabs your subscribed steam workshop maps and outputs the 
 
 ## How To Use:
 
+#### Requires Java 8 or above!
 1. Download and run the exe (or jar)
 2. Select the directory where the workshop maps are saved to (Typically found in **C:\Program Files (x86)\Steam\steamapps\workshop\content\232090** or **\Documents\My Games\KillingFloor2\KFGame\Cache**)
 3. Press the **Confirm** button
